@@ -28,16 +28,16 @@ chmod +x CustomDebian.sh
 
 ### Tools included
 
-- Tools used:
-OpenVPN - [OpenVPN](https://openvpn.net/client/)
-Kali-anonsurf - [Kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
-Moxie - [Moxie](https://github.com/aravind0x7/Moxie/tree/main)
-Mosquitto - [Mosquito](https://mosquitto.org/)
-Nmap - [Nmap](https://nmap.org/)
-Wfuzz - [Wfuzz](https://github.com/xmendez/wfuzz)
-Gobuster - [Gobuster](https://github.com/OJ/gobuster)
-Curl - [Curl](https://curl.se/docs/manpage.html)
-Metasploit - [Metasploit](https://www.metasploit.com/)
+Tools used:
+- OpenVPN - [OpenVPN](https://openvpn.net/client/)
+- Kali-anonsurf - [Kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
+- Moxie - [Moxie](https://github.com/aravind0x7/Moxie/tree/main)
+- Mosquitto - [Mosquito](https://mosquitto.org/)
+- Nmap - [Nmap](https://nmap.org/)
+- Wfuzz - [Wfuzz](https://github.com/xmendez/wfuzz)
+- Gobuster - [Gobuster](https://github.com/OJ/gobuster)
+- Curl - [Curl](https://curl.se/docs/manpage.html)
+- Metasploit - [Metasploit](https://www.metasploit.com/)
 
 ## Credits
 
