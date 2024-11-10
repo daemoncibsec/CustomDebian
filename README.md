@@ -6,6 +6,8 @@ CustomDebian is an script that provides a productive, efficient and customizable
 
 ## Installation
 
+Requisites: Having GNOME installed (not yet tested with other desktop environments)
+
 ```bash
 git clone https://github.com/daemoncibsec/CustomDebian.git
 cd CustomDebian/
