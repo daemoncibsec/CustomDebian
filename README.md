@@ -43,6 +43,6 @@ Tools used:
 
 ## Credits
 
-Created by [daemoncibsec](https://https://www.instagram.com/daemoncibsec/)
-Awesome Window Manager - [Awesome](https://awesomewm.org/)
-Terminal - [Kitty Terminal](https://sw.kovidgoyal.net/kitty/)
+- Created by [daemoncibsec](https://https://www.instagram.com/daemoncibsec/)
+- Awesome Window Manager - [Awesome](https://awesomewm.org/)
+- Terminal - [Kitty Terminal](https://sw.kovidgoyal.net/kitty/)
