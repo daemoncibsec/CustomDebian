@@ -30,7 +30,6 @@ chmod +x CustomDebian.sh
 
 ### Tools included
 
-Tools used:
 - OpenVPN - [OpenVPN](https://openvpn.net/client/)
 - Kali-anonsurf - [Kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
 - Moxie - [Moxie](https://github.com/aravind0x7/Moxie/tree/main)
